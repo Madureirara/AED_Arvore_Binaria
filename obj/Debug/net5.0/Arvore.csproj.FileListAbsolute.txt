@@ -1,0 +1,32 @@
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\Arvore.exe
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\Arvore.deps.json
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\Arvore.runtimeconfig.json
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\Arvore.runtimeconfig.dev.json
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\Arvore.dll
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\ref\Arvore.dll
+C:\Users\1209912\source\repos\Arvore\bin\Debug\net5.0\Arvore.pdb
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.csproj.AssemblyReference.cache
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.AssemblyInfoInputs.cache
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.AssemblyInfo.cs
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.csproj.CoreCompileInputs.cache
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.dll
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\ref\Arvore.dll
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.pdb
+C:\Users\1209912\source\repos\Arvore\obj\Debug\net5.0\Arvore.genruntimeconfig.cache
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\bin\Debug\net5.0\Arvore.exe
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\bin\Debug\net5.0\Arvore.deps.json
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\bin\Debug\net5.0\Arvore.runtimeconfig.json
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\bin\Debug\net5.0\Arvore.runtimeconfig.dev.json
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\bin\Debug\net5.0\Arvore.dll
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\bin\Debug\net5.0\Arvore.pdb
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.csproj.AssemblyReference.cache
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.AssemblyInfoInputs.cache
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.AssemblyInfo.cs
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.csproj.CoreCompileInputs.cache
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.dll
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\refint\Arvore.dll
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.pdb
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\Arvore.genruntimeconfig.cache
+D:\Puc\3° Semestre\Algoritimo\Arvore\Arvore\obj\Debug\net5.0\ref\Arvore.dll
