@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Puc\\3° Semestre\\Algoritimo\\Arvore\\Arvore\\Arvore.csproj": {}
+    "C:\\Users\\rafin\\source\\repos\\AED_Arvore_Binaria\\AED_Arvore_Binaria\\Arvore.csproj": {}
   },
   "projects": {
-    "D:\\Puc\\3° Semestre\\Algoritimo\\Arvore\\Arvore\\Arvore.csproj": {
+    "C:\\Users\\rafin\\source\\repos\\AED_Arvore_Binaria\\AED_Arvore_Binaria\\Arvore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Puc\\3° Semestre\\Algoritimo\\Arvore\\Arvore\\Arvore.csproj",
+        "projectUniqueName": "C:\\Users\\rafin\\source\\repos\\AED_Arvore_Binaria\\AED_Arvore_Binaria\\Arvore.csproj",
         "projectName": "Arvore",
-        "projectPath": "D:\\Puc\\3° Semestre\\Algoritimo\\Arvore\\Arvore\\Arvore.csproj",
+        "projectPath": "C:\\Users\\rafin\\source\\repos\\AED_Arvore_Binaria\\AED_Arvore_Binaria\\Arvore.csproj",
         "packagesPath": "C:\\Users\\rafin\\.nuget\\packages\\",
-        "outputPath": "D:\\Puc\\3° Semestre\\Algoritimo\\Arvore\\Arvore\\obj\\",
+        "outputPath": "C:\\Users\\rafin\\source\\repos\\AED_Arvore_Binaria\\AED_Arvore_Binaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
