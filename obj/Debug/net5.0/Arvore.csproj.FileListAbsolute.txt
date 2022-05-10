@@ -35,9 +35,7 @@ C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\bin\Debug\net5
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\bin\Debug\net5.0\Arvore.runtimeconfig.json
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\bin\Debug\net5.0\Arvore.runtimeconfig.dev.json
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\bin\Debug\net5.0\Arvore.dll
-C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\bin\Debug\net5.0\ref\Arvore.dll
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\bin\Debug\net5.0\Arvore.pdb
-C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.csproj.AssemblyReference.cache
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.AssemblyInfoInputs.cache
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.AssemblyInfo.cs
@@ -46,3 +44,5 @@ C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\ref\Arvore.dll
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.pdb
 C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.genruntimeconfig.cache
+C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\Arvore.csproj.AssemblyReference.cache
+C:\Users\rafin\source\repos\AED_Arvore_Binaria\AED_Arvore_Binaria\obj\Debug\net5.0\refint\Arvore.dll

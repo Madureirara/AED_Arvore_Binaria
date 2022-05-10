@@ -16,19 +16,13 @@ namespace Arvore
             arvore.Inserir(60);
             arvore.Inserir(65);
             arvore.Inserir(80);
-            arvore.Inserir(15);
+            arvore.Inserir(15);         
             arvore.Mostrar();
-            arvore.mostrarNumNodo();
-            arvore.remover(13);
-            arvore.remover(80);
-            arvore.remover(15);
-            arvore.remover(65);
-            arvore.Mostrar();
-            arvore.mostrarNumNodo();
-            arvore.Inserir(100);
-            arvore.Inserir(90);
-            arvore.Mostrar();
-            arvore.mostrarNumNodo();
+            arvore.QuantidadeFolha();
+            arvore.mostrarNumNodo();           
+            arvore.Nivel(65);
+            arvore.Grau(13);
+            arvore.Altura();                     
             Console.ReadKey();
         }
     }
